@@ -18,7 +18,7 @@ const projects = [
     title: "Human Pose Estimation Using ML",
     description: "An CNN ML model that used to identify the object in the formate of data.",
     image: project2,
-    tags: ["CNN", "Tensorflow.js", "ML"],
+    tags: ["CNN", "Tensorflow", "ML","Openpose"],
     demoUrl: "#",
     githubUrl: 'https://github.com/chbaladharmaraju/humanposeestiamtion_using_ml'
   },
